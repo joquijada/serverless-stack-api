@@ -21,6 +21,7 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
+    "serverless-webpack": "^5.3.2",
     "stripe": "^8.55.0",
     "uuid": "^7.0.3"
   }
